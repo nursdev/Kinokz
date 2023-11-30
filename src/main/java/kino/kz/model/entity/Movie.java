@@ -1,4 +1,4 @@
-package kino.kz.model;
+package kino.kz.model.entity;
 
 
 import jakarta.persistence.*;
